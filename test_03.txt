@@ -1,0 +1,28 @@
+ 0. Show menu.
+ 1. Insert figure.
+ 2. Delete figure.
+ 3. Print element.
+ 4. Print list.
+ 5. Quit program.
+Enter option: 1
+Enter index: 0
+Enter coordinates of left-top, left-bottom and right-bottom vertices:
+1 1 1 1 1 1
+Enter option: 1
+Enter index: 1
+Enter coordinates of left-top, left-bottom and right-bottom vertices:
+2 2 2 2 2 2
+Enter option: 1
+Enter index: 2
+Enter coordinates of left-top, left-bottom and right-bottom vertices:
+3 3 3 3 3 3
+Enter option: 1
+Enter index: 3
+Enter coordinates of left-top, left-bottom and right-bottom vertices: 
+4 4 4 4 4 4
+Enter option: 1
+Enter index: 4
+Enter coordinates of left-top, left-bottom and right-bottom vertices: 
+5 5 5 5 5 5
+Enter option: 1
+ERROR: cannot allocate - no empty space.
